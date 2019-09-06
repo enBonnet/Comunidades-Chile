@@ -1,13 +1,28 @@
 # Comunidades Dev en Chile
 
 Esta lista nace de un comentario hecho por [@nicoavila](https://github.com/nicoavila) en el Slack de [@Noders](https://github.com/noders) comentando que no teníamos en el radar algunas comunidades en Chile y que deberíamos crear un indice.
-___
 
-De esta forma quedan todos los organizadores o participantes en comunidades de programación en Chile a sumar sus comunidades en orden ortográfico con un link a sus página web, contacto, canal oficial, cualquier método de comunicación que consideren importante compartir. 
+---
 
-___
+De esta forma quedan todos los organizadores o participantes en comunidades de programación en Chile a sumar sus comunidades en orden alfabético con un link a sus página web, contacto, canal oficial, cualquier método de comunicación que consideren importante compartir.
 
-## Noders Chile: 
+---
+
+## Angular Chile:
+
+:octocat: [@ngChile](https://github.com/ngChile)
+
+🐦 [@angularChile](https://twitter.com/angularChile)
+
+🚻 [Angular Chile](https://www.facebook.com/ngchile/)
+
+🎯 [Angular Chile Slack](https://join.slack.com/t/angular-chile/shared_invite/enQtNjYyMDcxMzQxNDU4LTAwZGJhNWUyZmIyYTQ3NWZiZTgwZGY1NDI5MWIzYTVmMWNjMTQ4NGM0NjVhOTkzN2ZkYTNkNTFjZWFjNTNiNmE)
+
+📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
+
+---
+
+## Noders Chile:
 
 🌎 [Noders.com](https://noders.com)
 
@@ -19,14 +34,33 @@ ___
 
 📬 [hola@noders.com](hola@noders.com)
 
+🗒 [Medium Noders](https://medium.com/noders)
+
 📆 [Meetup NodersJS](https://www.meetup.com/es-ES/NodersJS/)
 
 ▶️ [Noders](https://www.youtube.com/noders)
 
-___
+---
 
+## Proin Chile:
 
-## Pro-Gramadores: 
+🌎 [programadores.cl](http://programadores.cl)
+
+:octocat: [@Proinchile](https://github.com/proinchile)
+
+🐦 [@proin_chile](https://twitter.com/proin_chile)
+
+🎯 [proinchile.noders.com](http://www.programadores.cl/#cta)
+
+📬 [contacto@programadores.cl](contacto@programadores.cl)
+
+📆 [Meetup ProinChile](https://www.meetup.com/es-ES/ProinChile/)
+
+▶️ [ProinChile](https://www.youtube.com/channel/UCwzksKYd78ybWnhCKz44W3Q)
+
+---
+
+## Pro-Gramadores:
 
 🌎 [pro-gramadores.org](https://pro-gramadores.org)
 
@@ -42,9 +76,10 @@ ___
 
 ▶️ [Pro-Gramadores](https://www.youtube.com/pgramadores)
 
-[Blog Pro-Gramadores](http://pgramadores.blogspot.com/)
+🗒 [Blog Pro-Gramadores](http://pgramadores.blogspot.com/)
 
-___
+---
+
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
 
 Algunos iconos que pueden ser útiles:
@@ -55,12 +90,14 @@ Algunos iconos que pueden ser útiles:
 
 🚻 Facebook
 
-🌎 Web 
+🌎 Web
 
-🎯 Slack 
+🎯 Slack
 
-📬 Email 
+🗒 Medium / Dev.to / Blog
 
-📆 Eventos 
+📬 Email
 
-▶️ Canal Youtube 
+📆 Eventos
+
+▶️ Canal Youtube
