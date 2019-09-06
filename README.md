@@ -30,7 +30,7 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🐦 [@NodersJS](https://twitter.com/NodersJS)
 
-🎯 [slack.noders.com](https://join.slack.com/t/noders/shared_invite/enQtMjk3MTA5MTk5MDExLTRjNTQ4MTdkN2MzZThhMGQ5YzUzZWU0NDQ0Zjk2ZDhjNjlhMzA4MWViMjE2NGY5MDliM2VmOGYyYTNjYTg0MGY)
+🎯 [noders.slack.com](https://join.slack.com/t/noders/shared_invite/enQtMjk3MTA5MTk5MDExLTRjNTQ4MTdkN2MzZThhMGQ5YzUzZWU0NDQ0Zjk2ZDhjNjlhMzA4MWViMjE2NGY5MDliM2VmOGYyYTNjYTg0MGY)
 
 📬 [hola@noders.com](hola@noders.com)
 
@@ -50,7 +50,7 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🐦 [@proin_chile](https://twitter.com/proin_chile)
 
-🎯 [proinchile.noders.com](http://www.programadores.cl/#cta)
+🎯 [proinchile.slack.com](http://www.programadores.cl/#cta)
 
 📬 [contacto@programadores.cl](contacto@programadores.cl)
 
