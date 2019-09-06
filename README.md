@@ -1,13 +1,14 @@
 # Comunidades Dev en Chile
 
 Esta lista nace de un comentario hecho por [@nicoavila](https://github.com/nicoavila) en el Slack de [@Noders](https://github.com/noders) comentando que no teníamos en el radar algunas comunidades en Chile y que deberíamos crear un indice.
-___
 
-De esta forma quedan todos los organizadores o participantes en comunidades de programación en Chile a sumar sus comunidades en orden alfabético con un link a sus página web, contacto, canal oficial, cualquier método de comunicación que consideren importante compartir. 
+---
 
-___
+De esta forma quedan todos los organizadores o participantes en comunidades de programación en Chile a sumar sus comunidades en orden alfabético con un link a sus página web, contacto, canal oficial, cualquier método de comunicación que consideren importante compartir.
 
-## Angular Chile: 
+---
+
+## Angular Chile:
 
 :octocat: [@ngChile](https://github.com/ngChile)
 
@@ -19,9 +20,9 @@ ___
 
 📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
 
-___
+---
 
-## Noders Chile: 
+## Noders Chile:
 
 🌎 [Noders.com](https://noders.com)
 
@@ -39,13 +40,9 @@ ___
 
 ▶️ [Noders](https://www.youtube.com/noders)
 
-___
+---
 
-
-
-___
-
-## Proin Chile: 
+## Proin Chile:
 
 🌎 [programadores.cl](http://programadores.cl)
 
@@ -61,7 +58,27 @@ ___
 
 ▶️ [ProinChile](https://www.youtube.com/channel/UCwzksKYd78ybWnhCKz44W3Q)
 
-___
+---
+
+## Pro-Gramadores:
+
+🌎 [pro-gramadores.org](https://pro-gramadores.org)
+
+:octocat: [@pgramadores](https://github.com/pgramadores)
+
+🐦 [@pgramadores](https://twitter.com/pgramadores)
+
+🎯 [pgramadores.slack.com](https://join.slack.com/t/pgramadores/shared_invite/enQtNzQwMzA0NjE5ODQzLWI0ODFiNDMyOGRkMDY0M2Q2YWFmZjlkNzMzY2Y3NjVhMzBiZGFlZDBkMTljMmY5NzI5ZmE0ZDRkN2IyM2YyYjE)
+
+📬 [contacto@pro-gramadores.org](contacto@pro-gramadores.org)
+
+📆 [Meetup Pro-Gramadores](https://www.meetup.com/es-ES/pgramadores/)
+
+▶️ [Pro-Gramadores](https://www.youtube.com/pgramadores)
+
+🗒 [Blog Pro-Gramadores](http://pgramadores.blogspot.com/)
+
+---
 
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
 
@@ -73,14 +90,14 @@ Algunos iconos que pueden ser útiles:
 
 🚻 Facebook
 
-🌎 Web 
+🌎 Web
 
-🎯 Slack 
+🎯 Slack
 
-🗒 Medium / Dev.to
+🗒 Medium / Dev.to / Blog
 
-📬 Email 
+📬 Email
 
-📆 Eventos 
+📆 Eventos
 
-▶️ Canal Youtube 
+▶️ Canal Youtube
