@@ -25,6 +25,26 @@ ___
 
 ___
 
+
+## Pro-Gramadores: 
+
+🌎 [pro-gramadores.org](https://pro-gramadores.org)
+
+:octocat: [@pgramadores](https://github.com/pgramadores)
+
+🐦 [@pgramadores](https://twitter.com/pgramadores)
+
+🎯 [pgramadores.slack.com](https://join.slack.com/t/pgramadores/shared_invite/enQtNzQwMzA0NjE5ODQzLWI0ODFiNDMyOGRkMDY0M2Q2YWFmZjlkNzMzY2Y3NjVhMzBiZGFlZDBkMTljMmY5NzI5ZmE0ZDRkN2IyM2YyYjE)
+
+📬 [contacto@pro-gramadores.org](contacto@pro-gramadores.org)
+
+📆 [Meetup Pro-Gramadores](https://www.meetup.com/es-ES/pgramadores/)
+
+▶️ [Pro-Gramadores](https://www.youtube.com/pgramadores)
+
+[Blog Pro-Gramadores](http://pgramadores.blogspot.com/)
+
+___
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
 
 Algunos iconos que pueden ser útiles:
