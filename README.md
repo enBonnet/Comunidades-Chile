@@ -25,6 +25,28 @@ ___
 
 ___
 
+
+
+___
+
+## Proin Chile: 
+
+🌎 [programadores.cl](http://programadores.cl)
+
+:octocat: [@Proinchile](https://github.com/proinchile)
+
+🐦 [@proin_chile](https://twitter.com/proin_chile)
+
+🎯 [proinchile.noders.com](http://www.programadores.cl/#cta)
+
+📬 [contacto@programadores.cl](contacto@programadores.cl)
+
+📆 [Meetup ProinChile](https://www.meetup.com/es-ES/ProinChile/)
+
+▶️ [ProinChile](https://www.youtube.com/channel/UCwzksKYd78ybWnhCKz44W3Q)
+
+___
+
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
 
 Algunos iconos que pueden ser útiles:
