@@ -8,6 +8,30 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 ---
 
+## devsChile:
+
+🌎 [devschile.cl](https://devschile.cl)
+
+:octocat: [@devsChile](https://github.com/devschile)
+
+🐦 [@devsChile](https://twitter.com/devschile)
+
+🚻 [devsChile](https://www.facebook.com/devschile/)
+
+🎯 [devsChile Slack](https://devschile.slack.com/)
+
+---
+
+## BeerJS Santiago:
+
+🌎 [BeerJS Santiago](https://beerjs.cl/santiago/)
+
+:octocat: [@beerjssantiago](https://github.com/beerjs/santiago/)
+
+🐦 [@beerjssantiago](https://twitter.com/beerjssantiago)
+
+---
+
 ## Angular Chile:
 
 :octocat: [@ngChile](https://github.com/ngChile)
