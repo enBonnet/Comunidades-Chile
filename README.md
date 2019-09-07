@@ -8,17 +8,17 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 ---
 
-## devsChile:
+## Angular Chile:
 
-🌎 [devschile.cl](https://devschile.cl)
+:octocat: [@ngChile](https://github.com/ngChile)
 
-:octocat: [@devsChile](https://github.com/devschile)
+🐦 [@angularChile](https://twitter.com/angularChile)
 
-🐦 [@devsChile](https://twitter.com/devschile)
+🚻 [Angular Chile](https://www.facebook.com/ngchile/)
 
-🚻 [devsChile](https://www.facebook.com/devschile/)
+🎯 [Angular Chile Slack](https://join.slack.com/t/angular-chile/shared_invite/enQtNjYyMDcxMzQxNDU4LTAwZGJhNWUyZmIyYTQ3NWZiZTgwZGY1NDI5MWIzYTVmMWNjMTQ4NGM0NjVhOTkzN2ZkYTNkNTFjZWFjNTNiNmE)
 
-🎯 [devsChile Slack](https://devschile.slack.com/)
+📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
 
 ---
 
@@ -32,17 +32,17 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 ---
 
-## Angular Chile:
+## devsChile:
 
-:octocat: [@ngChile](https://github.com/ngChile)
+🌎 [devschile.cl](https://devschile.cl)
 
-🐦 [@angularChile](https://twitter.com/angularChile)
+:octocat: [@devsChile](https://github.com/devschile)
 
-🚻 [Angular Chile](https://www.facebook.com/ngchile/)
+🐦 [@devsChile](https://twitter.com/devschile)
 
-🎯 [Angular Chile Slack](https://join.slack.com/t/angular-chile/shared_invite/enQtNjYyMDcxMzQxNDU4LTAwZGJhNWUyZmIyYTQ3NWZiZTgwZGY1NDI5MWIzYTVmMWNjMTQ4NGM0NjVhOTkzN2ZkYTNkNTFjZWFjNTNiNmE)
+🚻 [devsChile](https://www.facebook.com/devschile/)
 
-📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
+🎯 [devsChile Slack](https://devschile.slack.com/)
 
 ---
 
