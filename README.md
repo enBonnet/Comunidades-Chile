@@ -30,6 +30,16 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🐦 [@beerjssantiago](https://twitter.com/beerjssantiago)
 
+--
+
+## BeerJS Valdivia:
+
+🌎 [BeerJS Valdivia](https://valdivia.beerjs.cl)
+
+:octocat: [@beerjsvaldivia](https://github.com/beerjs/valdivia)
+
+🐦 [@beerjsvaldivia](https://twitter.com/beerjsvaldivia)
+
 ---
 
 ## devsChile:
