@@ -30,7 +30,7 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🐦 [@beerjssantiago](https://twitter.com/beerjssantiago)
 
---
+---
 
 ## BeerJS Valdivia:
 
