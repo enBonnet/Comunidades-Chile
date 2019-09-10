@@ -20,6 +20,10 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🎯 [devsChile Slack](https://devschile.slack.com/)
 
+📬 [huemul@devschile.cl](huemul@devschile.cl)
+
+🗒 [Medium devsChile](https://medium.com/devschile)
+
 ---
 
 ## BeerJS Santiago:
