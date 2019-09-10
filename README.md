@@ -20,10 +20,6 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
 
-📬 [huemul@devschile.cl](huemul@devschile.cl)
-
-🗒 [Medium devsChile](https://medium.com/devschile)
-
 ---
 
 ## BeerJS Santiago:
@@ -50,13 +46,17 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🌎 [devschile.cl](https://devschile.cl)
 
+🎯 [devsChile Slack](https://devschile.slack.com/)
+
 :octocat: [@devsChile](https://github.com/devschile)
 
 🐦 [@devsChile](https://twitter.com/devschile)
 
 🚻 [devsChile](https://www.facebook.com/devschile/)
 
-🎯 [devsChile Slack](https://devschile.slack.com/)
+📬 [huemul@devschile.cl](huemul@devschile.cl)
+
+🗒 [Medium devsChile](https://medium.com/devschile)
 
 ---
 
