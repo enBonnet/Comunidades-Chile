@@ -20,6 +20,10 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 📆 [Meetup Angular Chile](https://www.meetup.com/es/Angular-Chile)
 
+📬 [huemul@devschile.cl](huemul@devschile.cl)
+
+🗒 [Medium devsChile](https://medium.com/devschile)
+
 ---
 
 ## BeerJS Santiago:
