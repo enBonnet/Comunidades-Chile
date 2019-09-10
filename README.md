@@ -116,6 +116,10 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🗒 [Blog Pro-Gramadores](http://pgramadores.blogspot.com/)
 
+🚻 [Página](https://facebook.com/pgramadores)
+
+🚻 [Grupo](https://facebook.com/groups/pgramadores)
+
 ---
 
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
