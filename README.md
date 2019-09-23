@@ -130,7 +130,9 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 🐦 [@iv_devs](https://twitter.com/iv_devs)
 
-🚻 [IV Devs](https://www.facebook.com/ivdevs/)
+🚻 [IV Devs Fanpage](https://www.facebook.com/ivdevs/)
+
+🚻 [IV Devs Grupo](https://www.facebook.com/groups/programadores.iv.region.chile/)
 
 🎯 [IVDevs Slack](http://joinslack.ivdevs.com/)
 
