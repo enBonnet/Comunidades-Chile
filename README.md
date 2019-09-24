@@ -122,6 +122,26 @@ De esta forma quedan todos los organizadores o participantes en comunidades de p
 
 ---
 
+## IV Devs - Programadores IV Región:
+
+🌎 [ivdevs.com](http://ivdevs.com/)
+
+:octocat: [@iv-devs](https://github.com/iv-devs)
+
+🐦 [@iv_devs](https://twitter.com/iv_devs)
+
+🚻 [IV Devs Fanpage](https://www.facebook.com/ivdevs/)
+
+🚻 [IV Devs Grupo](https://www.facebook.com/groups/programadores.iv.region.chile/)
+
+🎯 [IVDevs Slack](http://joinslack.ivdevs.com/)
+
+📆 [IV Devs](https://www.meetup.com/es/IV-DEVS)
+
+▶️ [IV Devs](https://www.youtube.com/channel/UC-dfH_dCDPwAWHt5dHp1BxA)
+
+---
+
 Los PR/MR están abiertos para agregar comunidades, cambiar algún icono o hacer cualquier modificación.
 
 Algunos iconos que pueden ser útiles:
